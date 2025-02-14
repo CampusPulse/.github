@@ -6,3 +6,4 @@ The primary goal of CampusPulse is to provide a single, memorable place for stud
 
 CampusPulse is mainly developed as part of the [FOSS@RIT](https://fossrit.github.io/) community. If you would like to get your project added, come reach out in that community!
 
+More documentation about the various projects and repositories within CampusPulse can be found at https://github.com/CampusPulse/docs/wiki/
